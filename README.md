@@ -1,7 +1,11 @@
-# GREEN API
+# GREEN API Issues
 
 ## How to help
 
-If you noticed error or having any ideas about specific topics then you are welcome. Just create an issue describing problem or a pull request with your changes.
+If you notice a bug or have any suggestions for improvement, you can create a thread in the `Issues` section.
+
+## Как помочь
+
+Если вы заметили ошибку или у вас есть предложения по улучшению, вы можете создать тему в разделе `Проблемы`.
 
 © GREEN API
